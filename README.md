@@ -1,1 +1,1 @@
-Repo for chapter 10 in the Camera Essentials book from The MagPi
+Repo for chapter 13 of the official Raspberry Pi Camera Guide https://magpi.raspberrypi.org/books/camera-guide
